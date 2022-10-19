@@ -1,13 +1,11 @@
-localQuotes
-
-const localQuotes = [
+ [
   {
-    text: “Never wrestle with pigs. You both get dirty and the pig likes it.”,
-    author: "George Bernard Shaw"
+    text: "Never wrestle with pigs. You both get dirty and the pig likes it.” 
+    ,author: "George Bernard Shaw"
   },
   {
     text: "“I think being a woman is like being Irish... Everyone says you're important and nice, but you take second place all the time.”",
-    author: "Iris Murdoch"
+    author "Iris Murdoch"
   },
    {
     text: "Being Irish, he had an abiding sense of tragedy, which sustained him through temporary periods of joy.",
@@ -20,7 +18,7 @@ const localQuotes = [
    {
     text: "I'm Irish!...When I feel well I feel better than anyone, when I am in pain I yell at the top of my lungs, and when I am dead I shall be deader than anybody.",
     author: "Morgan Llywelyn"
-  }
+  },
   {
     text: "The sea, the snotgreen sea, the scrotumtightening sea.",
     author: "James Joyce, Ulysses"
@@ -30,27 +28,19 @@ const localQuotes = [
     author: "Daniel Patrick Moynihan"
   },
   {
-    text: "The great Gaels of Ireland are the men that God made mad,
-    For all their wars are merry, and all their songs are sad.",
+    text: "The great Gaels of Ireland are the men that God made mad, For all their wars are merry, and all their songs are sad.",
     author: "G.K. Chesterton, The Ballad of the White Horse"
   },
   {
-    text: "The first time I read an excellent book,
-    It is to me just as if I had gained a new friend.
-    When I read a book over I have perused before,
-    It resembles the meeting with an old one.
-    ",
+    text: "The first time I read an excellent book, It is to me just as if I had gained a new friend. When I read a book over I have perused before, It resembles the meeting with an old one." ,
     author: "Oliver Goldsmith"
   },
   {
-    text: "We’re nothing if we’re not loved.
-    When you meet somebody who is more important to you than yourself,
-    That has to be the most important thing in life, really.",
+    text: "We’re nothing if we’re not loved. When you meet somebody who is more important to you than yourself, That has to be the most important thing in life, really.",
     author: "Maeve Binchy"
   },
   {
-    text: "All I ask is the chance to prove
-    That money can’t make me happy.",
+    text: "All I ask is the chance to prove, That money can’t make me happy.",
     author: "Spike Milligan"
   },
   {
@@ -58,10 +48,7 @@ const localQuotes = [
     author: "CS Lewis"
   },
   {
-    text: "I know that I shall meet my fate
-    Somewhere among the clouds above;
-    Those that I fight I do not hate
-    Those that I guard I do not love.",
+    text: "I know that I shall meet my fateSomewhere among the clouds above;Those that I fight I do not hate, Those that I guard I do not love.",
     author: "WB Yeats"
   },
   {
@@ -81,8 +68,7 @@ const localQuotes = [
     author: "Sean Connery"
   },
   {
-    text: "We are ready to die and shall die cheerfully and proudly, you must not grieve for all of this.
-    ",
+    text: "We are ready to die and shall die cheerfully and proudly, you must not grieve for all of this.",
     author: " Padraig Pearse"
   },
   {
