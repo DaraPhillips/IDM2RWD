@@ -125,7 +125,7 @@
       },
       {
         "text": "Men in grey suits",
-        "author": "-Sharks!"
+        "author": "-SHARKS!"
       },
       {
         "text": "Messy",
